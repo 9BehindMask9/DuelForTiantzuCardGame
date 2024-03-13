@@ -1,2 +1,2 @@
-# DuelForTiantzuCardGame
+# Duel For Tiantzu BoardGame
 BoardGame
